@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.github.akitory4.instantsample",
+    "sha256_cert_fingerprints":
+    ["50:46:66:0B:91:84:C5:BF:CC:C7:4D:03:D0:1F:CD:77:D1:A0:E8:50:2A:48:D4:79:90:E4:3E:42:99:79:FC:52"]
+  }
+}]
