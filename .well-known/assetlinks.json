@@ -1,9 +1,9 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.github.akitory4.instantsample",
-    "sha256_cert_fingerprints":
-    ["50:46:66:0B:91:84:C5:BF:CC:C7:4D:03:D0:1F:CD:77:D1:A0:E8:50:2A:48:D4:79:90:E4:3E:42:99:79:FC:52"]
-  }
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.abbyy.vantage.mobile.input",
+      "sha256_cert_fingerprints":
+        ["B3:04:47:95:D9:EF:7C:D9:54:CF:51:8E:A9:B5:2C:2A:CA:F3:D7:84:7A:F6:87:80:66:DD:03:A2:5B:30:9C:CC"]
+    }
 }]
