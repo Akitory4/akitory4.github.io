@@ -2,8 +2,8 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.abbyy.vantage.mobile.input",
+      "package_name": "",
       "sha256_cert_fingerprints":
-        ["B3:04:47:95:D9:EF:7C:D9:54:CF:51:8E:A9:B5:2C:2A:CA:F3:D7:84:7A:F6:87:80:66:DD:03:A2:5B:30:9C:CC"]
+        [""]
     }
 }]
